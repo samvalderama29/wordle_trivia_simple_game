@@ -69,12 +69,12 @@ Test your knowledge in these 3 categories:
 
 ## 👨‍💻 Developers
 
-| Name    | Birthday  | Contributions                                                                   |
-| ------- | --------- | ------------------------------------------------------------------------------- |
-| **Ace Francis V. Agustin** | October 9, 2006   | - Main Menu<br>- Wordle Creator<br>- Trivia Co-creator                          |
-| **Gelai C. Baclea-an** | August 10, 2005 | - Trivia Quiz Creator                                                           |
-| **Kyrie Eleison Q. Tubog**  | August 11, 2005   | - Trivia Quiz Creator                                                           |
-| **Samantha Angel E. Valderama** | April 29, 2005     | - Wordle Co-creator<br>- Trivia Co-creator<br>- Developer Profile<br>- Compiler |
+| Name                        | Birthday        | GitHub Account                      | Contributions                                                                              |
+|-----------------------------|-----------------|-------------------------------------|--------------------------------------------------------------------------------------------|
+| Ace Francis V. Agustin      | October 9, 2006 | `https://github.com/AceFVA`         | - Creator of Main Menu<br>- Creator of Wordle<br>- Co-creator of Trivia Quiz               |
+| Gelai C. Baclea-an          | August 10, 2005 | `https://github.com/gelaiii10`      | - Creator of Trivia Quiz                                                                   |
+| Kyrie Eleison Q. Tubog      | August 11, 2005 | `https://github.com/Bogs081105`     | - Creator of Trivia Quiz                                                                   |
+| Samantha Angel E. Valderama | April 29, 2005  | `https://github.com/samvalderama29` | - Co-creator of Wordle<br>- Co-creator of Trivia Quiz<br>- Developer Profile<br>- Compiler |
 
 > **Created by BSCpE 1-6, Group 2 — S.Y. 2024–2025**
 
